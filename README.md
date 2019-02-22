@@ -17,8 +17,8 @@ Deberan existir por lo menos 9 listas(arraylists)
 -Alumnos de prepa, de profesional y de posgrado(3)
 -Carreras
 -Materias
-9. Se deberan manejar excepciones
-10. Su codigo debe validar los inputs del usuario.
+Se deberan manejar excepciones
+Su codigo debe validar los inputs del usuario.
 
 
 
